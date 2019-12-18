@@ -1,0 +1,28 @@
+{
+  "name": "epic-exporter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxgrid/epic-exporter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pxgrid/epic-exporter/issues"
+  },
+  "homepage": "https://github.com/pxgrid/epic-exporter#readme",
+  "dependencies": {
+    "csv-stringify": "^5.3.4",
+    "dayjs": "^1.8.17",
+    "dotenv": "^8.2.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8",
+    "yargs": "^15.0.2"
+  }
+}
